@@ -1,0 +1,9 @@
+{
+  "name": "reactRGBQuant",
+  "version": "0.0.1",
+  "dependencies": {
+    "simple-ui": "https://github.com/paranoida/simple-ui.git",
+    "RgbQuant.js": "https://github.com/leeoniya/RgbQuant.js.git",
+    "react": "~0.8.0"
+  }
+}
